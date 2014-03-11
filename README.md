@@ -1,0 +1,4 @@
+Icons
+=====
+
+Gnome icon themes
